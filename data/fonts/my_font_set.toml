@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "Open+Sans:300|Source+Code+Pro"
+
+# Font families
+heading_font = "Source Code Pro"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Open Sans"

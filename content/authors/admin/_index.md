@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ben Kaiser
 
 # Username (this should match the folder name)
 authors:
@@ -9,67 +9,68 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Professor of Artificial Intelligence
-
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: ""
   url: ""
 
+# Role/position
+role: Keeping the web safe from fake news 
+
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#- Disinformation and content moderation
+#- Digital media
+#- Security, privacy, and cryptography
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: Princeton University
+    year: In progress
+  - course: MS in Computer Science
+    institution: Rensselaer Polytechnic Institute
+    year: 2015
+  - course: BS in Computer Science
+    institution: Rensselaer Polytechnic Institute
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+ - icon: twitter
+   icon_pack: fab
+   link: https://twitter.com/bkaiser93
+ - icon: envelope
+   icon_pack: fas
+   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+ - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=wJ5NtLkAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a 2nd-year PhD student in Computer Science at Princeton University advised by [Jonathan Mayer](https://www.jonathanmayer.org) in the [Center for Information Technology Policy.](https://citp.princeton.edu/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My background is in security and privacy, and my current work focuses on disinformation, digital media, and consumer protection.
+
+I love to teach and mentor. I’ve taught computing and security basics to students of all ages through [CodeCreative,](https://www.codecreative-ll.org/) [LLCipher,](https://www.ll.mit.edu/outreach/llcipher) [RPISEC,](https://rpis.ec/) and [Princeton INTERFACE,](https://interface-pton.github.io/interface/) among other groups. At Princeton, I am the teaching assistant for [COS 448.](https://www.cs.princeton.edu/courses/archive/spring20/cos448/)
+
+In my spare time, I like to make craft cocktails, play tennis, teach tricks to my dog, and read.
