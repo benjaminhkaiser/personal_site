@@ -22,8 +22,8 @@ publication_types = ["4"]
 publication_short = "On arXiv"
 
 # Links (optional).
-url_pdf = "files/2003.07684.pdf"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "files/hounsel2020supporting.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""

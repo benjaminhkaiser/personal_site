@@ -41,7 +41,7 @@
   translation: PDF
 
 - id: btn_cite
-  translation: Cite
+  translation: Citation
 
 - id: btn_slides
   translation: Slides
@@ -56,7 +56,7 @@
   translation: Dataset
 
 - id: btn_project
-  translation: Project
+  translation: Project website
 
 - id: btn_poster
   translation: Poster

@@ -22,12 +22,12 @@ publication_types = ["4"]
 publication_short = "On arXiv"
 
 # Links (optional).
-url_pdf = "files/1810.02466.pdf"
-url_preprint = ""
-url_code = ""
+url_pdf = ""
+url_preprint = "files/kaiser2018looming.pdf"
+url_code = "https://github.com/aled1027/looming_threat_of_china_analysis"
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/1Yc4RDtmk2lXvmtoKdvmsUyoYF-XF-yK8c7Qm2sHhVvw/edit?usp=sharing"
 url_video = ""
 url_poster = ""
 url_source = ""

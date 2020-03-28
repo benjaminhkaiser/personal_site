@@ -23,10 +23,10 @@ publication_short = "In submission"
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://www.issms2fasecure.com/assets/sim_swaps-01-10-2020.pdf"
+url_preprint = "https://www.issms2fasecure.com/assets/sim_swaps-03-25-2020.pdf"
 url_code = ""
-url_dataset = ""
-url_project = ""
+url_dataset = "https://www.issms2fasecure.com/dataset"
+url_project = "https://www.issms2fasecure.com/"
 url_slides = ""
 url_video = ""
 url_poster = ""

@@ -25,7 +25,7 @@ publication_short = "In *ACM Queue Vol. 17 Iss. 5*"
 image_preview = ""
 
 # Links (optional).
-url_pdf = "files/3371595.3376896.pdf"
+url_pdf = "files/ruoti2019blockchain.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

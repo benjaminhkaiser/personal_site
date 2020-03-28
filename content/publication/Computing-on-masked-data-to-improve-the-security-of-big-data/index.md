@@ -22,7 +22,7 @@ publication_types = ["1"]
 publication_short = "In *IEEE HST 2015*"
 
 # Links (optional).
-url_pdf = "1504.01287"
+url_pdf = "files/gadepally2015computing"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
