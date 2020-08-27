@@ -15,15 +15,15 @@ organizations:
   url: ""
 
 # Role/position
-role: Keeping the web safe from fake news 
+role: Computer security and disinformation researcher
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 #- Disinformation and content moderation
-#- Digital media
 #- Security, privacy, and cryptography
+#- HCI, UX, and user studies
 
 education:
   courses:
@@ -67,10 +67,10 @@ email: ""
 # - Visitors
 ---
 
-I'm a 2nd-year PhD student in Computer Science at Princeton University advised by [Jonathan Mayer](https://www.jonathanmayer.org) in the [Center for Information Technology Policy.](https://citp.princeton.edu/)
+I'm a 3rd-year PhD candidate in Computer Science at Princeton University advised by [Jonathan Mayer](https://www.jonathanmayer.org) in the [Center for Information Technology Policy.](https://citp.princeton.edu/)
 
-My background is in security and privacy, and my current work focuses on disinformation, digital media, and consumer protection.
+My background is in security and privacy, and my current work is on measuring and responding to online disinformation.
 
-I love to teach and mentor. I’ve taught computing and security basics to students of all ages through [CodeCreative,](https://www.codecreative-ll.org/) [LLCipher,](https://www.ll.mit.edu/outreach/llcipher) [RPISEC,](https://rpis.ec/) and [Princeton INTERFACE,](https://interface-pton.github.io/interface/) among other groups. At Princeton, I am the teaching assistant for [COS 448.](https://www.cs.princeton.edu/courses/archive/spring20/cos448/)
+I love to teach and mentor. I’ve taught computing and security basics to students of all ages through [CodeCreative,](https://www.codecreative-ll.org/) [LLCipher,](https://www.ll.mit.edu/outreach/llcipher) [RPISEC,](https://rpis.ec/) and [Princeton INTERFACE,](https://interface-pton.github.io/interface/) among other groups. At Princeton, I TA'd [COS 448](https://www.cs.princeton.edu/courses/archive/spring20/cos448/) and [COS 217](https://www.cs.princeton.edu/courses/archive/spring20/cos448/).
 
 In my spare time, I like to make craft cocktails, play tennis, teach tricks to my dog, and read.

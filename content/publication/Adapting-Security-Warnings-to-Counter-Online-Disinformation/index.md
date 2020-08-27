@@ -1,11 +1,11 @@
 +++
-title = "The Looming Threat of China: An Analysis of Chinese Influence on Bitcoin"
+title = "Adapting Security Warnings to Counter Online Disinformation"
 
 # Date first published.
-date = "2018-10-05"
+date = "2020-08-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ben Kaiser", "Mireya Jurado", "G. Alex Ledger"]
+authors = ["Ben Kaiser", "Jerry Wei", "Elena Lucherini", "Kevin Lee", "J. Nathan Matias", "Jonathan Mayer"]
 
 # Publication type.
 # Legend:
@@ -16,18 +16,18 @@ authors = ["Ben Kaiser", "Mireya Jurado", "G. Alex Ledger"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication_short = "On arXiv"
+publication_short = "In submission"
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "files/kaiser2018looming.pdf"
-url_code = "https://github.com/aled1027/looming_threat_of_china_analysis"
+url_preprint = "https://arxiv.org/pdf/2008.10772.pdf"
+url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "https://docs.google.com/presentation/d/1Yc4RDtmk2lXvmtoKdvmsUyoYF-XF-yK8c7Qm2sHhVvw/edit?usp=sharing"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""

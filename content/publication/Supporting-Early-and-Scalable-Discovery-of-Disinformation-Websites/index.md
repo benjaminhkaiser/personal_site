@@ -1,8 +1,8 @@
 +++
-title = "Supporting Early and Scalable Discovery of Disinformation Websites"
+title = "Identifying Disinformation Websites Using Infrastructure Features"
 
 # Date first published.
-date = "2020-02-28"
+date = "2020-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Austin Hounsel", "Jordan Holland", "Ben Kaiser", "Kevin Borgolte", "Nick Feamster", "Jonathan Mayer"]
@@ -16,14 +16,14 @@ authors = ["Austin Hounsel", "Jordan Holland", "Ben Kaiser", "Kevin Borgolte", "
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["4"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication_short = "On arXiv"
+publication_short = "In *USENIX FOCI 2020*"
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "files/hounsel2020supporting.pdf"
+url_pdf = "files/hounsel2020identifying.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
