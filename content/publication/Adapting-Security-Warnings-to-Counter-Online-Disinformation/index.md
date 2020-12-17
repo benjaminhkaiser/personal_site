@@ -16,14 +16,14 @@ authors = ["Ben Kaiser", "Jerry Wei", "Elena Lucherini", "Kevin Lee", "J. Nathan
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication_short = "In submission"
+publication_short = "In *USENIX SEC 2021*"
 
 # Links (optional).
-url_pdf = ""
-url_preprint = "https://arxiv.org/pdf/2008.10772.pdf"
+url_pdf = "files/kaiser2021adapting.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
