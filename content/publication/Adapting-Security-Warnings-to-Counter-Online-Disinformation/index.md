@@ -28,7 +28,7 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "files/sec21_video_kaiser_full.mp4"
 url_poster = ""
 url_source = ""
 
