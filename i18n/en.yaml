@@ -33,6 +33,11 @@
   translation: Edit this page
 
 # Buttons
+- id: btn_podcast
+  translation: Podcast
+
+- id: btn_article
+  translation: Article
 
 - id: btn_preprint
   translation: Preprint

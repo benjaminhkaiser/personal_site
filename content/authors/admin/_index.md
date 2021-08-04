@@ -44,7 +44,7 @@ education:
 social:
  - icon: twitter
    icon_pack: fab
-   link: https://twitter.com/bkaiser93
+   link: https://twitter.com/benhkaiser
  - icon: envelope
    icon_pack: fas
    link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -73,4 +73,4 @@ My background is in security and privacy, and my current work is on measuring an
 
 I love to teach and mentor. I’ve taught computing and security basics to students of all ages through [CodeCreative,](https://www.codecreative-ll.org/) [LLCipher,](https://www.ll.mit.edu/outreach/llcipher) [RPISEC,](https://rpis.ec/) and [Princeton INTERFACE,](https://interface-pton.github.io/interface/) among other groups. At Princeton, I TA'd [COS 448](https://www.cs.princeton.edu/courses/archive/spring20/cos448/) and [COS 217](https://www.cs.princeton.edu/courses/archive/spring20/cos448/).
 
-In my spare time, I like to make craft cocktails, play tennis, teach tricks to my dog, and read.
+In my spare time, I like to read science fiction, play tennis, and make craft cocktails.

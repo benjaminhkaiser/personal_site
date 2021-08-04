@@ -1,11 +1,14 @@
 +++
-title = "Adapting Security Warnings to Counter Online Disinformation"
+title = "Warnings That Work: Combating Misinformation Without Deplatforming"
 
 # Date first published.
-date = "2020-08-25"
+date = "2021-07-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ben Kaiser", "Jerry Wei", "Elena Lucherini", "Kevin Lee", "J. Nathan Matias", "Jonathan Mayer"]
+authors = ["Ben Kaiser", "Jonathan Mayer", "J. Nathan Matias"]
+
+# Venue. 
+venues = ["Published July 23, 2021 on Lawfare."]
 
 # Publication type.
 # Legend:
@@ -16,20 +19,22 @@ authors = ["Ben Kaiser", "Jerry Wei", "Elena Lucherini", "Kevin Lee", "J. Nathan
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication_short = "In *USENIX SEC 2021*"
+# publication_short = "On Lawfare"
 
 # Links (optional).
-url_pdf = "files/kaiser2021adapting.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=dlxyO8vRc68"
+url_video = ""
 url_poster = ""
 url_source = ""
+url_article = "https://www.lawfareblog.com/warnings-work-combating-misinformation-without-deplatforming"
+#url_podcast = "https://www.benkaiser.org/"
 
 +++
