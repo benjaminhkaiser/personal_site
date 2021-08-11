@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Princeton University
-    year: In progress
+    year: in progress
   - course: MS in Computer Science
     institution: Rensselaer Polytechnic Institute
     year: 2015
@@ -71,6 +71,6 @@ I'm a 3rd-year PhD candidate in Computer Science at Princeton University advised
 
 My background is in security and privacy, and my current work is on measuring and responding to online disinformation.
 
-I love to teach and mentor. I’ve taught computing and security basics to students of all ages through [CodeCreative,](https://www.codecreative-ll.org/) [LLCipher,](https://www.ll.mit.edu/outreach/llcipher) [RPISEC,](https://rpis.ec/) and [Princeton INTERFACE,](https://interface-pton.github.io/interface/) among other groups. At Princeton, I TA'd [COS 448](https://www.cs.princeton.edu/courses/archive/spring20/cos448/) and [COS 217](https://www.cs.princeton.edu/courses/archive/spring20/cos448/).
+I love to teach and mentor. I’ve taught computing and security basics to students of all ages through [CodeCreative,](https://www.codecreative-ll.org/) [LLCipher,](https://www.ll.mit.edu/outreach/llcipher) and [RPISEC,](https://rpis.ec/) among other groups. At Princeton, I TA'd [COS 448](https://www.cs.princeton.edu/courses/archive/spring20/cos448/) and [COS 217.](https://www.cs.princeton.edu/courses/archive/spring20/cos217/)
 
 In my spare time, I like to read science fiction, play tennis, and make craft cocktails.

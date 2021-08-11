@@ -35,6 +35,6 @@ url_video = ""
 url_poster = ""
 url_source = ""
 url_article = "https://www.lawfareblog.com/warnings-work-combating-misinformation-without-deplatforming"
-#url_podcast = "https://www.benkaiser.org/"
+url_podcast = "https://www.lawfareblog.com/lawfare-podcast-ben-kaiser-and-jonathan-mayer-fighting-misinformation-online"
 
 +++
