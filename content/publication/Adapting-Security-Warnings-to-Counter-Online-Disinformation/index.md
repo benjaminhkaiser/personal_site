@@ -5,7 +5,7 @@ title = "Adapting Security Warnings to Counter Online Disinformation"
 date = "2020-08-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ben Kaiser", "Jerry Wei", "Elena Lucherini", "Kevin Lee", "J. Nathan Matias", "Jonathan Mayer"]
+authors = ["Ben Kaiser", "Jerry Wei", "Eli Lucherini", "Kevin Lee", "J. Nathan Matias", "Jonathan Mayer"]
 
 # Publication type.
 # Legend:
