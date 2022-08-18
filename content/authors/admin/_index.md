@@ -15,7 +15,7 @@ organizations:
   url: ""
 
 # Role/position
-role: Computer security and disinformation researcher
+role: Tech policy, disinformation and information security researcher
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -67,10 +67,10 @@ email: ""
 # - Visitors
 ---
 
-I'm a 3rd-year PhD candidate in Computer Science at Princeton University advised by [Jonathan Mayer](https://www.jonathanmayer.org) in the [Center for Information Technology Policy.](https://citp.princeton.edu/)
+I'm a PhD candidate in Computer Science at Princeton University, advised by [Jonathan Mayer](https://www.jonathanmayer.org) in the [Center for Information Technology Policy](https://citp.princeton.edu/). I also work as a Scientific Researcher at [DuckDuckGo.](https://duckduckgo.com/)
 
-My background is in security and privacy, and my current work is on measuring and responding to online disinformation.
+I've spent ten years conducting security and technology policy research across academia, industry, and an FFRDC. My publications are listed below, and my current projects include a large-scale field study of disinformation interventions and a qualitative usability evaluation of a novel research platform. 
 
-I love to teach and mentor. I’ve taught computing and security basics to students of all ages through [CodeCreative,](https://www.codecreative-ll.org/) [LLCipher,](https://www.ll.mit.edu/outreach/llcipher) and [RPISEC,](https://rpis.ec/) among other groups. At Princeton, I TA'd [COS 448](https://www.cs.princeton.edu/courses/archive/spring20/cos448/) and [COS 217.](https://www.cs.princeton.edu/courses/archive/spring20/cos217/)
+Outside of research, I love to teach and mentor. I’ve taught computing and security basics to students of all ages through [CodeCreative,](https://www.codecreative-ll.org/) [LLCipher,](https://www.ll.mit.edu/outreach/llcipher) and [RPISEC,](https://rpis.ec/) among other groups. At Princeton, I TA'd [COS 448](https://www.cs.princeton.edu/courses/archive/spring20/cos448/) and [COS 217.](https://www.cs.princeton.edu/courses/archive/spring20/cos217/)
 
-In my spare time, I like to read science fiction, play tennis, and make craft cocktails.
+In my spare time, I like to bike, play tennis, read science fiction, and make craft cocktails.
