@@ -67,9 +67,9 @@ email: ""
 # - Visitors
 ---
 
-I'm a PhD candidate in Computer Science at Princeton University, advised by [Jonathan Mayer](https://www.jonathanmayer.org) in the [Center for Information Technology Policy](https://citp.princeton.edu/). I also work as a Scientific Researcher at [DuckDuckGo.](https://duckduckgo.com/)
+I'm a PhD candidate in Computer Science at Princeton University, advised by [Jonathan Mayer](https://www.jonathanmayer.org) in the [Center for Information Technology Policy](https://citp.princeton.edu/).
 
-I've spent ten years conducting security and technology policy research across academia, industry, and an FFRDC. My publications are listed below, and my current projects include a large-scale field study of disinformation interventions and a qualitative usability evaluation of a novel research platform. 
+I've spent ten years conducting security and technology policy research across academia, industry, and an FFRDC. My current research focus is on measuring the societal impact of technology while preserving individual privacy.
 
 Outside of research, I love to teach and mentor. I’ve taught computing and security basics to students of all ages through [CodeCreative,](https://www.codecreative-ll.org/) [LLCipher,](https://www.ll.mit.edu/outreach/llcipher) and [RPISEC,](https://rpis.ec/) among other groups. At Princeton, I TA'd [COS 448](https://www.cs.princeton.edu/courses/archive/spring20/cos448/) and [COS 217.](https://www.cs.princeton.edu/courses/archive/spring20/cos217/)
 
